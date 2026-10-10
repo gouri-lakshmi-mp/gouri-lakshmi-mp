@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Gouri Lakshmi 👋
 
-<!--
-**gouri-lakshmi-mp/gouri-lakshmi-mp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Analyst | M.A. Econometrics | Kochi, Kerala**
 
-Here are some ideas to get you started:
+I turn data into clear insights using Excel and Power BI, and I'm open to entry-level **Data Analyst** and **Business Analyst** roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Excel:** Pivot Tables, Power Query, dashboards
+- **Power BI:** DAX, data modelling, interactive dashboards
+- **R:** time-series analysis and forecasting
+- **Learning:** SQL, Python (basics)
+
+## 📊 Projects
+- Sales Performance Dashboard (Power BI): coming soon
+- UPI Transactions Dashboard (Power BI): coming soon
+- Auto-Rickshaw Drivers Survey Analysis: coming soon
+
+## 🎓 Education
+- M.A. Econometrics, Alphonsa College, Pala (2024–2026)
+- B.A. Economics, BCM College, Kottayam (2021–2024)
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/gouri-lakshmi-m-p-ab0206307
+- Email: gourilakshmi03work@gmail.com
