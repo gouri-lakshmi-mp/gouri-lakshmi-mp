@@ -12,8 +12,8 @@ I turn data into clear insights using Excel and Power BI, and I'm open to entry-
 
 ## 📊 Projects
 - Sales Performance Dashboard (Power BI): (https://github.com/gouri-lakshmi-mp/sales_performance_dashboard_powerbi): sales analysis by category, region, segment and customer
-- UPI Transactions Dashboard (Power BI): coming soon
-- Auto-Rickshaw Drivers Survey Analysis: coming soon
+- UPI Transactions Dashboard (Power BI):(https://github.com/gouri-lakshmi-mp/upi_transaction_dashboard_powerbi): trend, growth
+
 
 ## 🎓 Education
 - M.A. Econometrics, Alphonsa College, Pala (2024–2026)
